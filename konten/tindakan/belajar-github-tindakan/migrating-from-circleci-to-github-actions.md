@@ -1,4 +1,4 @@
----
+nama: Unduh matematika hasil untuk pekerjaan 1 menggunakan: tindakan/download-artifact@v2 dengan: nama: pekerjaan rumah---
 title: Migrating from CircleCI to GitHub Actions
 intro: 'GitHub Actions and CircleCI share several similarities in configuration, which makes migration to GitHub Actions relatively straightforward.'
 redirect_from:
